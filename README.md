@@ -96,7 +96,7 @@ URL (Not Secured): https://<your-app>.workers.dev/<_id>
 - Now go back to worker main page, here you will see that your created worker listed there, click on that.
 - Click on <code>Settings</code>
 - In <code>KV Namespace Bindings</code> section click on <code>Add Binding</code>
-- Write <code>TUHIN</code> in Variable name & select your recently created Namespace for KV namespace.
+- Write <code>PARTH</code> in Variable name & select your recently created Namespace for KV namespace.
 - You just made your Cloudflare DB, Now Read the API Endpoint and use it in your Project 😪
 
 ### *Secure with Token :*
