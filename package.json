@@ -1,0 +1,18 @@
+{
+    "name": "cloudflare-db",
+    "version": "1.0.0",
+    "description": "The low latency database powered by Cloudflare Worker and KV",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hack-parthsharma/CloudflareDB.git"
+    },
+    "keywords": [
+        "Cloudflare",
+        "Cloudflare-Worker"
+    ],
+    "author": "Sharma Paarth",
+    "bugs": {
+        "url": "https://github.com/hack-parthsharma/CloudflareDB/issues"
+    },
+    "homepage": "https://github.com/hack-parthsharma/CloudflareDB#readme"
+}
